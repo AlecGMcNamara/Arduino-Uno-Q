@@ -1,5 +1,10 @@
 ### Minimum code to demonstrate websockets working in Uno Q
 
+Copy files into a new project and add WebUI HTML brick!
+
+This is my first time posting a UNO Q project, all comments
+and help welcome, thanks.
+
 **28/01/26**
 
 Added two counters, 1 incremented by the browser and 1
