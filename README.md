@@ -5,6 +5,10 @@ Copy files into a new project and add WebUI HTML brick!
 This is my first time posting a UNO Q project, all comments
 and help welcome, thanks.
 
+**29/01/26**
+
+Bit more code removal
+
 **28/01/26**
 
 Added two counters, 1 incremented by the browser and 1
