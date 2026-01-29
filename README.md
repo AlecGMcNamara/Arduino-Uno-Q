@@ -1,5 +1,9 @@
 ### Minimum code to demonstrate websockets working in Uno Q
 
+Transfer 10 variables (bool int float string) back and forth
+
+between browser and Arduino Q
+
 Copy files into a new project and add WebUI HTML brick!
 
 This is my first time posting a UNO Q project, all comments
